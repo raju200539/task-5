@@ -78,3 +78,7 @@ kubectl get pods
 
 ## 📷 Screenshots
 Included screenshots show application running, services, pods, and scaling operations.
+<img width="508" height="63" alt="pods_deployed" src="https://github.com/user-attachments/assets/5a19eca0-d0bc-4828-bcda-eed4e1a9b891" />
+<img width="553" height="63" alt="services" src="https://github.com/user-attachments/assets/2f2da6d5-5f87-46ad-8e5b-7783b3dd134c" />
+
+
